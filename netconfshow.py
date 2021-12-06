@@ -37,5 +37,3 @@ print(" Packets Input: {}".format(loopInfo["statistics"]["in-unicast-pkts"]))
 print(" Packets Output: {}".format(loopInfo["statistics"]["out-unicast-pkts"]))
 print(" Admin Status: {}".format(loopInfo["admin-status"]))
 print(" Operational Status: {}".format(loopInfo["oper-status"]))
-
-#Yes, you could print this information with Paramiko/Netmiko. It would be a little more advanced though because you would have to run a command, then parse it for your information

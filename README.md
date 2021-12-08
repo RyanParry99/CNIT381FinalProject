@@ -1,5 +1,5 @@
 ## Project Overview
-In this project we are looking at implementing a Chatbot that utilizes Cisco WebEx and Python in order to monitor and configure network devices. 
+Hello and welcome to this project. In this project we are looking at implementing a Chatbot that utilizes Cisco WebEx and Python in order to monitor and configure network devices. 
 
 ## Project Setup
 
